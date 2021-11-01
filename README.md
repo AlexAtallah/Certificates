@@ -4,8 +4,10 @@
 
 # The freecodecamp certificates can be found by following this link: https://www.freecodecamp.org/fccee733731-bcec-4ce5-9630-c6fbb8f23417. Each certificate comes with 5 completed projects in order to earn it.
 # The certificates are for:
-# Responsive Web Design
-# Javascript Data Structure And Algorithms
-# Front End Development Libraries
-# Data Visualization
-# Backend Development and APIs
+<ul>
+<li><a href="https://www.freecodecamp.org/certification/fccee733731-bcec-4ce5-9630-c6fbb8f23417/responsive-web-design"># Responsive Web Design</a></li>
+<li><a href="https://www.freecodecamp.org/certification/fccee733731-bcec-4ce5-9630-c6fbb8f23417/javascript-algorithms-and-data-structures"># Javascript Data Structure And Algorithms</a></li>
+<li><a href="https://www.freecodecamp.org/certification/fccee733731-bcec-4ce5-9630-c6fbb8f23417/front-end-development-libraries"># Front End Development Libraries</a></li>
+<li><a href="https://www.freecodecamp.org/certification/fccee733731-bcec-4ce5-9630-c6fbb8f23417/data-visualization"># Data Visualization</a></li>
+<li><a href="https://www.freecodecamp.org/certification/fccee733731-bcec-4ce5-9630-c6fbb8f23417/back-end-development-and-apis"># Backend Development and APIs</a></li>
+</ul>
